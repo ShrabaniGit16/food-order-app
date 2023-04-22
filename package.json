@@ -2,7 +2,7 @@
   "name": "food-order-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ShrabaniGit16.github.io/food-order-app",
+  "homepage": "https://shrabanigit16.github.io/food-order-app/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
